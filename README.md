@@ -1,5 +1,5 @@
-# Deep-Learning-Workshop
+# Machine-Learning-Workshops
  
-Contents of some workshops conducted by me at various academic institutes and companies
+Repo of some workshops conducted by me at various companies and academic institutes
 
-Machine Learning & Deep Learning
+Data Science, Machine Learning, Deep Learning
